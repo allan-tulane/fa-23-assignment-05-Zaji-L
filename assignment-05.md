@@ -11,7 +11,6 @@ properties are still maintained, but each internal node now has $d$
 children (except possibly the rightmost leaf). What is the maximum
 depth of a $d$-ary heap?
 
-
 **put in answers.md**
 
 .  
